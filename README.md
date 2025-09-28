@@ -41,10 +41,3 @@
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dhanashree-jadhav&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanashree-jadhav-602816273)  
-📧 **dhanuj1611@gmail.com**
-
