@@ -46,4 +46,5 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanashree-jadhav-602816273)  
-📧 Email: **dhanuj1611@gmail.com**
+📧 **dhanuj1611@gmail.com**
+
