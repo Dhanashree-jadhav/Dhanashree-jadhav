@@ -29,23 +29,21 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanashree-jadhav&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanashree-jadhav&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashree-jadhav&layout=compact&theme=radical)  
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashree-jadhav&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dhanashree-jadhav&theme=radical&margin-w=15&margin-h=15)  
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dhanashree-jadhav&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
 ## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanashree-jadhav-602816273/)  
-📩 Email: **dhanuj1611@gmail.com**  
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanashree-jadhav-602816273)  
+📧 Email: **dhanuj1611@gmail.com**
