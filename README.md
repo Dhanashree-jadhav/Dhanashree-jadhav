@@ -19,7 +19,7 @@
 `Java` `JavaScript` `PHP` `Python` `SQL`
 
 **Cloud & DevOps**  
-`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `CI/CD`
+`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions`
 
 **Databases**  
 `MySQL` `MongoDB`
@@ -30,19 +30,16 @@
 ---
 
 ## 📊 GitHub Stats  
-
 ![Dhanashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanashree-jadhav&show_icons=true&theme=radical)  
 
 ---
 
 ## 🔥 Top Languages  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashree-jadhav&layout=compact&theme=radical)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dhanashree-jadhav&theme=radical&margin-w=15&margin-h=15)  
 
 ---
