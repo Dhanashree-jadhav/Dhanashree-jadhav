@@ -1,5 +1,5 @@
 ```markdown
-<!-- Header Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dhanashree+Jadhav;Cloud+%7C+DevOps+Enthusiast;Full-Stack+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
